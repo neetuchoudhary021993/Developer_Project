@@ -94,12 +94,15 @@ margin: 0;
 .about-item{
     background-color: rgba(141, 17, 17, 0.989);
 }
-@media screen and (max-width:425px) {
+@media screen and (max-width:480px) {
     .hero-section{
         height: 50vh;
     }
     .portfolio-background {
          height: 50vh;
+    }
+    .portfolio-heading{
+        height: auto;
     }
     .bottom-section{
         gap: 0;
