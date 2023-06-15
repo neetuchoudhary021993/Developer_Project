@@ -107,6 +107,9 @@ margin: 0;
     .portfolio-heading h3{
         font-size: 20px;
     }
+    .portfolio-heading{
+        text-align: center;
+    }
     .bottom-section{
         gap: 0px;
     }
