@@ -101,9 +101,6 @@ margin: 0;
     .portfolio-background {
          height: 50vh;
     }
-    .portfolio-heading>h1{
-        font: 30px
-    }
     .portfolio-heading h1{
         font-size: 30px;
     }
